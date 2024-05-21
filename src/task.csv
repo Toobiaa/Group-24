@@ -1,0 +1,38 @@
+taskId,taskName,bonus,familyId,isSubmitted,childName,isDone
+1,coding,1000,35327784,false,wuboheng,false
+2,cooking,3200,35327784,true,wuboheng,true
+3,running,2600,35327784,false,wuboheng,false
+4,climbing,1000,35327784,true,wuboheng,true
+5,gaming,10,35327784,true,wuboheng,true
+6,homework,300,35327784,false,wuboheng,false
+7,math,4000,35327784,true,wuboheng,true
+8,computer fixing,2345,35327784,true,wuboheng,false
+9,bilibili,2233,35327784,false,wuboheng,false
+10,Tiktok,2442,35327784,false,wuboheng,false
+11,HUAWEI,1101,35327784,false,wuboheng,false
+12,iPad Pro M4,8999,35327784,true,wuboheng,true
+13,iPad Air M2,4799,35327784,false,wuboheng,false
+14,Lenovo Leigon R9,9999,35327784,true,wuboheng,false
+15,BUPT,450,35327784,false,wuboheng,false
+16,cooking,2000,35327784,false,wangxincheng,false
+17,music,2333,35327784,true,wangxincheng,true
+18,G.E.M.,666,35327784,false,wangxincheng,false
+19,zf,3220,35327784,false,wangxincheng,false
+20,BNU,520,35327784,false,wangxincheng,false
+21,Gloria,1314,35327784,true,wangxincheng,true
+22,Shanxi Shi Zhong,6666,35327784,true,wangxincheng,true
+23,test task0,1234,35327784,true,wangxincheng,false
+24,,60,35327784,true,wangxincheng,false
+25,,60,35327784,true,wangxincheng,false
+26,,60,35327784,true,wangxincheng,false
+27,,60,35327784,true,wangxincheng,false
+28,,60,35327784,true,wangxincheng,true
+29,,60,35327784,true,wangxincheng,false
+30,,60,35327784,true,wangxincheng,false
+31,,60,35327784,true,wangxincheng,false
+32,,60,35327784,true,wangxincheng,false
+33,,60,35327784,true,wangxincheng,false
+34,kk,600,35327784,true,wangxincheng,false
+35,jjjj,50,35327784,true,wangxincheng,false
+36,jksa,500,35327784,true,wangxincheng,false
+37,fhehuh,89,35327784,false,wuboheng,false
